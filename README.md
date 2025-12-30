@@ -3,7 +3,7 @@ AI를 활용한 경제,보건,건강 상태와 기대수명과의 상관관계�
 제공해주신 GitHub 저장소의 내용을 바탕으로 구성한 `README.md` 파일 예시입니다. 이 프로젝트가 선형 회귀(Linear Regression)를 이용해 기대 수명을 예측하는 머신러닝 모델을 다루고 있는 점을 반영하여 작성했습니다.
 
 ---
-
+브라우저로 앱확인: https://mllifeexpectancylinearregreapprgit-lw6st4djbzgjasdappnh8vd.streamlit.app/
 # 🧬 Life Expectancy Prediction using Linear Regression
 
 이 프로젝트는 국가별 다양한 보건, 경제, 사회적 요인 데이터를 바탕으로 **선형 회귀(Linear Regression)** 모델을 사용하여 **기대 수명(Life Expectancy)**을 예측하는 머신러닝 프로젝트입니다.
