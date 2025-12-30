@@ -1,4 +1,4 @@
-# ML_life_expectancy_linearregressor
+# ML_life_expectancy_Randomforest Regressor
 AI를 활용한 경제,보건,건강 상태와 기대수명과의 상관관계를 예측하여 시각화 (머신러닝)
 제공해주신 GitHub 저장소의 내용을 바탕으로 구성한 `README.md` 파일 예시입니다. 이 프로젝트가 선형 회귀(Linear Regression)를 이용해 기대 수명을 예측하는 머신러닝 모델을 다루고 있는 점을 반영하여 작성했습니다.
 
